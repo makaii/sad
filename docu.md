@@ -1,7 +1,7 @@
-<div align="center">
+<center>
 ### Chapter 1
 ### THE PROBLEM AND ITS BACKGROUND
-</div>
+</center>
 ### INTRODUCTION
 
 #### BACKGROUND OF THE STUDY
