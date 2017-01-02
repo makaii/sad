@@ -1,4 +1,4 @@
-<div style="text-align: right">
+<div align="center">
 ### Chapter 1
 ### THE PROBLEM AND ITS BACKGROUND
 </div>
