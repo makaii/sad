@@ -1,7 +1,62 @@
-<center>
+in partial fullfillent
+
+Anokol, Elona Mae Y.
+
+Evangelista, Mark Joshua C.
+
+Iquina, Mikaela M.
+
+____
+
+##### TABLE OF CONTENTS
+PRELIMINARIES
+
+* Title Page
+	
+* Approval Sheet
+	
+* Acknowledgement
+	
+* Abstract
+	
+* Table of Contents
+	
+* List of Figures
+	
+* List of Tables
+
+CHAPTER 1 - THE PROBLEM AND ITS BACKGROUND
+
+* Background of the Study
+
+* Objectives of the Study
+
+* Scope and Limitations of the Study
+
+* Significance of the Study
+
+CHAPTER 2 - CONCEPTUAL FRAMEWORK
+
+* Review of Related Literature and Study
+
+* Conceptual Model of the Study
+
+* Operational Definition of Terms
+
+CHAPTER 3 - RESEARCH METHODOLOGY
+
+* Research Design
+
+* Project Development
+
+* Operation and Testing Procedure
+
+_____
+
+
 ### Chapter 1
 ### THE PROBLEM AND ITS BACKGROUND
-</center>
+
 ### INTRODUCTION
 
 #### BACKGROUND OF THE STUDY
@@ -61,5 +116,25 @@ _____
 ### CONCEPTUAL FRAMEWORK
 
 #### REVIEW OF RELATED LITERATURE AND STUDY
+n/a
+
 #### CONCEPTUAL MODEL OF THE STUDY
+n/a
+
 #### OPERATIONAL DEFINITION OF TERMS
+n/a
+
+_____
+
+
+### CHAPTER 3
+### RESEARCH METHODOLOGY
+
+#### RESEARCH DESIGN
+n/a
+
+#### PROJECT DEOPLYMENT
+n/a
+
+#### OPERATION  AND TESTING PROCEDURE
+n/a
